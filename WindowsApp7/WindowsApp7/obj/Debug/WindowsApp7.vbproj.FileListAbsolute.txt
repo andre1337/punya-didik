@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.vbprojAssemblyReference.cache
+C:\Users\admin\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.exe.config
+C:\Users\admin\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.Form1.resources
+C:\Users\admin\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.Resources.resources
+C:\Users\admin\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.vbproj.GenerateResource.cache
+C:\Users\admin\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.vbproj.CoreCompileInputs.cache
